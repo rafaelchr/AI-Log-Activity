@@ -1,5 +1,11 @@
 # 🧠 AI Log Activity
 
+![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-5.x-blue?logo=express)
+![Electron](https://img.shields.io/badge/Electron-39.x-gray?logo=electron)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-CDN-blueviolet?logo=tailwind-css)
+![License](https://img.shields.io/badge/License-No_License-lightgrey)
+
 AI Log Activity adalah aplikasi desktop berbasis **Electron** yang membantu kamu membuat **log harian magang** secara otomatis menggunakan **AI**.  
 Kamu cukup menuliskan aktivitas yang kamu lakukan hari itu, dan sistem akan **menghasilkan uraian aktivitas**, **pembelajaran yang diperoleh**, serta **kendala yang mungkin dialami** secara otomatis!
 
