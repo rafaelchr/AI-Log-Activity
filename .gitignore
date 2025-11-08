@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+MyAIApp-win32-x64/
+
+# Environment
+.env
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
